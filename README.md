@@ -1,5 +1,5 @@
 # hello-world
-Nonplussed, forward
+Nonplussed, forward.
 
 To Myself,
 
